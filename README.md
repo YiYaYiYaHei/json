@@ -1,7 +1,12 @@
-#### 目录说明
-> china
-1. 中国省市json
----
+# json
+记录项目中用到的json数据
 
-> world
-1. 国家json
+## 1、目录结构说明
+
+```
+|-- json
+    |-- china                      // 中国地图相关json
+    |-- world                      // 世界地图相关json                           
+```
+
+
